@@ -1,0 +1,33 @@
+
+.logo{
+	border: 2px solid blue;
+	width: 20%;
+	display: inline-block;
+}
+
+.menu{
+	border: 2px solid red;
+	width: 79%;
+	display: inline-block;
+}
+
+.menu ul{
+		list-style: none;
+		text-align: center;
+}
+
+.slider{
+	border: 2px solid green;
+}
+
+.news_section{
+	border: 2px solid black;
+}
+
+.news{
+	border: 2px solid pink;
+	width: 30%;
+	display: inline-block;
+	padding: 5px;
+	margin: 5px;
+}
