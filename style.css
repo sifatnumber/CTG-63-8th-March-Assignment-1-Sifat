@@ -1,0 +1,63 @@
+.header{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.logo{
+	border: 1px solid blue;
+	width: 30%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.logo img{
+	width: 100%;
+}
+
+.menu{
+	border: 1px solid red;
+	width: 70%;
+	float: right;
+	box-sizing: border-box;
+
+}
+
+.menu ul li{
+	float: left;
+	list-style: none;
+	padding: 32px;
+	margin: 10px;
+	font-size: 20px;
+}
+
+.slider{
+	border: 1px solid green;
+	clear: both;
+}
+
+.news_section{
+	border: 1px solid black;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.news{
+	border: 2px solid pink;
+	width: 33.33%;
+	float: left;
+	box-sizing: border-box;
+	vertical-align: top;
+	padding: 10px;
+	margin-top: 2px;
+}
+
+.footer{
+	border: 2px solid black;
+	clear: both;
+}
+
+.wrapper{
+	background-color: grey;
+}
